@@ -4,4 +4,4 @@ Neste repositório coloquei as minhas resoluções para as atividades da discipl
 Resolvi os problemas em Java.
 No meu canal do YouTube você encontra um tutorial das duas atividades:
 
-[No meu canal do YouTube você encontra um tutorial das duas atividades](https://youtu.be/QokkOHYv41I)
+[No meu canal do YouTube você encontra um tutorial das duas atividades.](https://youtu.be/QokkOHYv41I)
